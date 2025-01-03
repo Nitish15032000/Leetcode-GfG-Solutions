@@ -14,4 +14,4 @@ function twoPower(x, n) {
    return result;
 }
 
-console.log(twoPower(2, 3)); // Output: 8
+console.log(twoPower(2, 7)); // Output: 128
